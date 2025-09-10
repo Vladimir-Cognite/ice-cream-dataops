@@ -8,7 +8,7 @@ environment:
 variables:
   modules:
     bootcamp:
-      # Variables shared by modules
+      # Variables shared by modul
 
       data_foundation:
         data_developer_source_id: 5e31295c-42ed-498e-aa26-59b47c99d6f9
